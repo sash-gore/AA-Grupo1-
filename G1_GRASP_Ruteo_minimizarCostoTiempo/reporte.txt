@@ -1,0 +1,60 @@
+La ruta que minimiza el costo y maximiza la velocidad de Madrid a Paris es:
+Madrid Paris 
+La distancia de la mínima ruta es: 105
+La velocidad promedio de la mínima ruta es: 24.4186
+El costo de la mínima ruta es: 12.6
+-------------------------------------
+La ruta que minimiza el costo y maximiza la velocidad de Madrid a Berlin es:
+Madrid Rome Berlin 
+La distancia de la mínima ruta es: 710
+La velocidad promedio de la mínima ruta es: 48.7832
+El costo de la mínima ruta es: 85.2
+-------------------------------------
+La ruta que minimiza el costo y maximiza la velocidad de Madrid a Rome es:
+Madrid Paris Prague Rome 
+La distancia de la mínima ruta es: 649
+La velocidad promedio de la mínima ruta es: 49.3687
+El costo de la mínima ruta es: 77.88
+-------------------------------------
+La ruta que minimiza el costo y maximiza la velocidad de Madrid a Vienna es:
+Madrid Amsterdam Vienna 
+La distancia de la mínima ruta es: 727
+La velocidad promedio de la mínima ruta es: 59.7904
+El costo de la mínima ruta es: 87.24
+-------------------------------------
+La ruta que minimiza el costo y maximiza la velocidad de Madrid a Prague es:
+Madrid Paris Prague 
+La distancia de la mínima ruta es: 207
+La velocidad promedio de la mínima ruta es: 32.8644
+El costo de la mínima ruta es: 24.84
+-------------------------------------
+La ruta que minimiza el costo y maximiza la velocidad de Madrid a Amsterdam es:
+Madrid Brussels Amsterdam 
+La distancia de la mínima ruta es: 386
+La velocidad promedio de la mínima ruta es: 47.8308
+El costo de la mínima ruta es: 46.32
+-------------------------------------
+La ruta que minimiza el costo y maximiza la velocidad de Madrid a Brussels es:
+Madrid Brussels 
+La distancia de la mínima ruta es: 280
+La velocidad promedio de la mínima ruta es: 46.9799
+El costo de la mínima ruta es: 33.6
+-------------------------------------
+La ruta que minimiza el costo y maximiza la velocidad de Madrid a Warsaw es:
+Madrid Warsaw 
+La distancia de la mínima ruta es: 852
+La velocidad promedio de la mínima ruta es: 45.7573
+El costo de la mínima ruta es: 102.24
+-------------------------------------
+La ruta que minimiza el costo y maximiza la velocidad de Madrid a Lisbon es:
+Madrid Prague Vienna Warsaw Amsterdam Brussels Lisbon 
+La distancia de la mínima ruta es: 2123
+La velocidad promedio de la mínima ruta es: 67.6674
+El costo de la mínima ruta es: 254.76
+-------------------------------------
+La ruta que minimiza el costo y maximiza la velocidad de Madrid a Budapest es:
+Madrid Budapest 
+La distancia de la mínima ruta es: 950
+La velocidad promedio de la mínima ruta es: 51.5744
+El costo de la mínima ruta es: 114
+-------------------------------------
